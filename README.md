@@ -44,3 +44,10 @@
 
 ## TODO
 - use wabt instead of js version: https://github.com/WebAssembly/wabt/blob/master/src/tools/wat2wasm.cc
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/modules.git && cd modules
+```
